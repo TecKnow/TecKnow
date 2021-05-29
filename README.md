@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David P. Perkins, @TecKnow
 - 👀 I’m interested in Using Python and Javascript to improve hobby and special interest activies, like conventions.
-- 🌱 I’m currently learning Sequelize
+- 🌱 I’m currently learning Github Actions
 
 
 <!---
